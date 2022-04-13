@@ -1,0 +1,6 @@
+*.cert
+terraform.tfvars
+node_modules/
+.terraform
+.terraform.*
+terraform.*
